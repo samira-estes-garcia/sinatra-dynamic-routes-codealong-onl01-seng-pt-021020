@@ -24,6 +24,4 @@ class App < Sinatra::Base
     "The product is #{:num1 * :num2}."
   end
   
-  
-  
 end
